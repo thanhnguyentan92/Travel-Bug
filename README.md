@@ -8,9 +8,9 @@ Travel-Bug, with a frontend built in React & Redux and a backend built in Django
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://travel-bug-frontend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://travelbugfrontend.xxhoamailanxx.repl.co/) here!!
 
-Check out [API LIVE DEMO](https://travel-bug-backend2.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://travelbugbackend.xxhoamailanxx.repl.co/) here!!
 
 ## Tech used
 
